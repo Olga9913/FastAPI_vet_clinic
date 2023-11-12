@@ -1,9 +1,6 @@
 # FastAPI_vet_clinic
 Educational project to create a service for a veterinary clinic
 
-# FastApiProject
-Educational project to create a service for a veterinary clinic
-
 # Сервис для ветеринарной клиники
 
 Директор ветеринарной клиники обратился с запросом о создании микросервиса для хранения и обновления информации о собаках. В результате общения с IT-отделом была разработана документация в формате OpenAPI.
