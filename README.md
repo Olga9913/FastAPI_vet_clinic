@@ -20,3 +20,4 @@
 Проект имеет MIT license - см. LICENSE.md файл.
 
 # Ссылка на веб-сервис
+https://fastapi-vet-clinic-716y.onrender.com
